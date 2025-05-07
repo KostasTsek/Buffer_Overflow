@@ -91,3 +91,5 @@ simulating a clean return to the main execution flow.
 
 5. __Executing the Exploit:__
 The final payload successfully changed the ```grade``` to ```9``` and allowed the program to proceed normally without crashing or triggering a segmentation fault.
+
+This project was developed as part of an academic assignment for the HY255 (Systems Programming Lab) course at the University of Crete.
